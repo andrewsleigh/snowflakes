@@ -5,7 +5,7 @@ This is my first experiment with p5. I wanted to generate a grid of nice snowfla
 
 This sketch is optimised to make efficient line art for plotters, not for the beautiful display of snowflakes on screen. 
 
-![]("saas-screenshot.png")
+![](https://raw.githubusercontent.com/andrewsleigh/snowflakes/master/saas-screenshot.png)
 
 My workflow is:
 
