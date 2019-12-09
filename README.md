@@ -16,5 +16,5 @@ My workflow is:
 
 ### Usage
 
-Download the whole repository, and open the 'index.html' page in a web browser. 
+Download the whole repository, and open the `index.html` page in a web browser. 
 
