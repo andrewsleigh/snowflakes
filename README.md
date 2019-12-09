@@ -17,4 +17,5 @@ My workflow is:
 ### Usage
 
 Download the whole repository, and open the `index.html` page in a web browser. 
+I'm also running the seice from my own site here: <http://snowflakes.andrewsleigh.com>
 
